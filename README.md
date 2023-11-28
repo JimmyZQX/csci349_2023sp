@@ -16,6 +16,8 @@ about machine learning and data science and want to get more familiar with them.
 ### Final Project Information ###
 Final Project Report Video: https://youtu.be/w0oFfmKs6rs <br>
 
+You can find the final project here: 
+
 The final project uses the dataset "Glass Identification Data Set" from the 
 UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Glass+Identification
 to hone and test my skills in data mining and machine learning through predicting the type
