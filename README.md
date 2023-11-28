@@ -16,7 +16,8 @@ about machine learning and data science and want to get more familiar with them.
 ### Final Project Information ###
 Final Project Report Video: https://youtu.be/w0oFfmKs6rs <br>
 
-You can find the final project here: https://github.com/JimmyZQX/csci349_2023sp/tree/main/project
+You can find the final report here: https://github.com/JimmyZQX/csci349_2023sp/tree/main/project
+The three files are all parts of the final report.
 
 The final project uses the dataset "Glass Identification Data Set" from the 
 UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Glass+Identification
