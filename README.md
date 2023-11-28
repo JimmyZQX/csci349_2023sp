@@ -14,10 +14,9 @@ forward to learning different models of machine learning. I am extremely passion
 about machine learning and data science and want to get more familiar with them.
 
 ### Final Project Information ###
-Final Project Report Video: https://youtu.be/w0oFfmKs6rs <br>
+Final Report: https://github.com/JimmyZQX/csci349_2023sp/blob/main/project/Final_Report.ipynb <br>
 
-You can find the final report here: https://github.com/JimmyZQX/csci349_2023sp/tree/main/project
-The three files are all parts of the final report.
+Presentation: https://youtu.be/w0oFfmKs6rs <br>
 
 The final project uses the dataset "Glass Identification Data Set" from the 
 UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/Glass+Identification
